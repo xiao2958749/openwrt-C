@@ -78,3 +78,4 @@ jobs:
           name: OpenWrt_firmware
           path: bin/targets/
           
+          [![OpenWrt](https://github.com/xiao2958749/openwrt-C/actions/workflows/openwrt.yml/badge.svg)](https://github.com/xiao2958749/openwrt-C/actions/workflows/openwrt.yml)
